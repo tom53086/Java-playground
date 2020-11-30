@@ -1,2 +1,2 @@
-com/galvanize/application.java
- com.galvanize.application
+com/galvanize/Application.java
+ com.galvanize.Application
